@@ -1,0 +1,137 @@
+.hr{
+  border-style:dotted none none none; border-width:10px 0px 0px 0px;width:5%; border-color:#000000
+}
+.h{
+  text-align: center;
+}
+.style{
+  font-family: font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.food{
+  width: 500px;
+  border:1px solid lightgray;
+  border-radius: 20px;
+  padding: 10px;
+  margin:0px auto;
+}
+.food-img-area{
+  width: 100%;
+  height: 450px;
+  position relative;
+}
+.food-img{
+  width: 100%;
+  height: 100%;
+  border-radius: 20px;
+}
+.promoted{
+  position: absolute;
+  top:90px;
+  background-color: darkgray;
+  color: white;
+  padding: 3px 10px;
+  font-size: 14px;
+  margin: 10px;
+  border-radius: 5px;
+}
+.off{
+  font-size:20px;
+  position: relative;
+  bottom:50px;
+  background-color:#256FEF;
+  color: white;
+  padding: 3px 10px;
+  font-size: 18px;
+  width:170px;
+}
+.min{
+  position: relative;
+  width: 65px;
+  bottom:90px;
+  left:400px;
+  background-color: white;
+  color: black;
+  padding: 3px 10px;
+  font-size: 20px;
+  margin: 10px;
+  border-radius: 12px;
+}
+.sea{
+  width: 800px;
+  height: 400px;
+  margin:10px auto;
+}
+.sea-img{
+  width: 100%;
+  height: 100%;
+  border-radius: 20px;
+}
+.sea-text{
+  color: white;
+  text-align: center;
+  position: relative;
+  bottom:250px;
+}
+.sea-btn{
+  width: 150px;
+  border: 0px none;
+  padding: 15px;
+  border-radius: 50px;
+}
+.zomato{
+  width: 800px;
+  height: 300px;
+  margin:10px auto;
+}
+.z-img{
+  width: 100%;
+  height: 100%;
+}
+.z-bg-img{
+  width: 100%;
+  height: 100%;
+}
+.img-text{
+  color: white;
+  text-align: center;
+  position: relative;
+  bottom:190px;
+}
+.filter{
+  position: relative;
+  background-color: white;
+  width: 150px;
+  margin: 0px auto;
+  border: 0px none;
+  padding: 15px;
+  border-radius: 7px;
+  bottom: 200px;
+}
+.linkedin{
+    width: 500px;
+    margin: 10px auto;
+    position: relative;
+    border: 1px solid lightgray;
+    border-radius: 20px;
+}
+.bg{
+    width: 100%;
+    height: 100px;
+    border-top-left-radius:20px;
+    border-top-right-radius:20px;
+}
+.dp{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    position: absolute;
+    top:50px;
+    left: 200px;
+    margin-bottom: -46px;
+    border: 2px solid white;
+}
+.abt{
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  text-align: center;
+  margin-top: 50px;
+}
